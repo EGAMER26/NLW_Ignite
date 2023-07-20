@@ -2,7 +2,7 @@ const styles =  {
   color: '#f00',
 }
 
-const nome = 'Evandro'
+const nome = 'Evandro Santana'
 
 interface ButtonProps {
   title: string
